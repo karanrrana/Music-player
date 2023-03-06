@@ -76,6 +76,6 @@ Mutagen is a Python module to handle audio metadata. It supports ASF, FLAC, MP4,
 ---
 ### <p align="center">***_Show <img src="Images_for_README/heart.png" width=30px> by Starring this Repo_***</p>
 
-- ### ***_[Click to View the Project Video](https://youtu.be/Q-YHVdA9pe0)_***
+<!-- - ### ***_[Click to View the Project Video](https://youtu.be/Q-YHVdA9pe0)_***
 
-- ### ***_[Connect With Me on LinkedIn to Get Regular Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")_***
+- ### ***_[Connect With Me on LinkedIn to Get Regular Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")_*** -->
